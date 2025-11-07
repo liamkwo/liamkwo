@@ -1,8 +1,9 @@
 <!--<p align="center">-->
 
-### Hello! I'm Liam 👋
-I'm a developer working at [./- Dot Slash Dash](https://www.dotslashdash.com/)
-
+### Hello! I'm Liam 👋  
+I'm a Software Engineer currently working at [AgileSoDA](http://www.agilesoda.com/),  
+with prior experience at DotSlashDash and Alphado.  
+I'm currently focused on developing **AI Agents** and **RAG (Retrieval-Augmented Generation)** systems.
 
 <!--
 <b>🛠 Tech Stack 🛠</b>
